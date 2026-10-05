@@ -1,3 +1,3 @@
 #include <stdio.h>
-
-int main() { puts("Hello 👋"); }
+// hejjsa allesammen der læser dette
+int main(void) { printf("Welcome\nto\nc! "); }
