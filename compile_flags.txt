@@ -1,6 +1,6 @@
 -std=gnu23
 -g
--Iinc
+-Iinclude
 -Wall
 -Wextra
 -lm
