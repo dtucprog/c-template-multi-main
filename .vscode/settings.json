@@ -3,5 +3,8 @@
     "git.postCommitCommand": "push",
     "git.enableSmartCommit": true,
     "git.autofetch": true,
-    "editor.inlayHints.enabled": "offUnlessPressed"
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
 }
